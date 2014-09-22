@@ -1,0 +1,26 @@
+{
+  "name": "IdEA",
+  "description": "International Diaspora Engagement Alliance",
+  "version": "1.0.0",
+  "homepage": "https://bitbucket.org/simbiotica/idea",
+  "authors": [
+    "Andrés González <andres@simbiotica.es>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "app/vendor"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.14",
+    "requirejs-text": "~2.0.12",
+    "handlebars": "~1.3.0",
+    "jquery": "~2.1.1",
+    "backbone": "~1.1.2",
+    "sprintf": "~1.0.0",
+    "jquery-ui": "~1.11.0",
+    "select2": "~3.5.1",
+    "normalize.css": "~3.0.1"
+  },
+  "license": "MIT"
+}
